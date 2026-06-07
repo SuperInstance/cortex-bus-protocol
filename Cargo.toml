@@ -1,0 +1,9 @@
+[package]
+name = "cortex-bus-protocol"
+version = "0.1.0"
+edition = "2021"
+description = "CQRS event-sourced agent bus with command handling, append-only event store, and projection-based read models"
+license = "MIT"
+repository = "https://github.com/SuperInstance/cortex-bus-protocol"
+
+[dependencies]
